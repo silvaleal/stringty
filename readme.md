@@ -16,7 +16,7 @@ a = "ab2c"
 
 print(a)"""
 
-Redacty().rescript("test.py", content)
+Stringty().rescript("test.py", content)
 ```
 
 ## Append content to the end
@@ -30,5 +30,5 @@ a = "ab2c"
 
 print(a)"""
 
-Redacty().imprement("test.py", content)
+Stringty().imprement("test.py", content)
 ```
