@@ -1,4 +1,4 @@
-The **Stringty** is a Python library for **manipulating file content in a simple way** — either replacing all content or appending new content.
+The **Stringty** is a Python library for **manipulating file content in a simple way**. either replacing all content or appending new content.
 
 ## Installation
 

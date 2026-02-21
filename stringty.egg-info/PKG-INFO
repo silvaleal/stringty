@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: stringty
-Version: 0.0.1
+Version: 0.0.2.1
 Summary: Uma biblioteca PYTHON para editar conteúdo de arquivos, substitua todo o conteúdo ou adicione algo a mais.
 Author: silvaleal
 Author-email: lealsilva.ctt@outlook.com
@@ -17,5 +17,37 @@ Dynamic: license
 Dynamic: license-file
 Dynamic: summary
 
-# Stringty
-Uma biblioteca PYTHON para editar conteÃºdo de arquivos, substitua todo o conteÃºdo ou adicione algo a mais.
+The **Stringty** is a Python library for **manipulating file content in a simple way**. either replacing all content or appending new content.
+
+## Installation
+
+```bash
+pip install stringty
+```
+
+## Replace the entire content
+
+```python
+from stringty import Stringty
+
+content = """
+a = "ab2c"
+
+print(a)"""
+
+Redacty().rescript("test.py", content)
+```
+
+## Append content to the end
+
+```python
+from stringty import Stringty
+
+content = """
+a = "ab2c"
+
+
+print(a)"""
+
+Redacty().imprement("test.py", content)
+```
