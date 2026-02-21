@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+stringty/__init__.py
+stringty/decorators.py
+stringty/lib.py
+stringty.egg-info/PKG-INFO
+stringty.egg-info/SOURCES.txt
+stringty.egg-info/dependency_links.txt
+stringty.egg-info/top_level.txt

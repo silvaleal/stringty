@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: stringty
+Version: 0.0.1
+Summary: Uma biblioteca PYTHON para editar conteúdo de arquivos, substitua todo o conteúdo ou adicione algo a mais.
+Author: silvaleal
+Author-email: lealsilva.ctt@outlook.com
+License: MIT License
+Keywords: redacty
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary
+
+# Stringty
+Uma biblioteca PYTHON para editar conteÃºdo de arquivos, substitua todo o conteÃºdo ou adicione algo a mais.
