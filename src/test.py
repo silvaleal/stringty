@@ -1,0 +1,4 @@
+a = "abc"
+
+
+print(a)
