@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: stringty
-Version: 0.0.2.1
+Version: 0.0.2.2
 Summary: Uma biblioteca PYTHON para editar conteúdo de arquivos, substitua todo o conteúdo ou adicione algo a mais.
 Author: silvaleal
 Author-email: lealsilva.ctt@outlook.com
@@ -35,7 +35,7 @@ a = "ab2c"
 
 print(a)"""
 
-Redacty().rescript("test.py", content)
+Stringty().rescript("test.py", content)
 ```
 
 ## Append content to the end
@@ -49,5 +49,5 @@ a = "ab2c"
 
 print(a)"""
 
-Redacty().imprement("test.py", content)
+Stringty().imprement("test.py", content)
 ```

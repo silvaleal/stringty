@@ -4,7 +4,7 @@ with open("README.md", "r") as arq:
     readme = arq.read()
 
 setup(name='stringty',
-    version='0.0.2.1',
+    version='0.0.2.2',
     license='MIT License',
     author='silvaleal',
     long_description=readme,
